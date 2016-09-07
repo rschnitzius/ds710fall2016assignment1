@@ -5,7 +5,7 @@ Raissa Schnitzius
 I have always had an affinity for quantitative and analytical tasks, but the math courses I took in college were maybe a bit too “pure” for me.  While I enjoy quantitative thinking, I feel that Data Science is more suited to my interest in exploring real-world problems in a field that is quickly expanding and in high demand in our technological and analytics-heavy world.  I also hope to someday work in the field of data science, ideally within the same company at which I currently work, which is a software company that could potentially stand to greatly benefit from some of the concepts we have learned and will learn about in this program.
 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-I have never take a programming course and do not use programming in my job.  However, I did teach myself a bit of HTML and CSS at a previous employer for the purpose of formatting text and images on our office website.  Otherwise, I have no formal or informal programming experience.
+I have never taken a programming course and do not use programming in my job.  However, I did teach myself a bit of HTML and CSS at a previous employer for the purpose of formatting text and images on our office website.  Otherwise, I have no formal or informal programming experience.
 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
 I took a college-level introductory statistics class earlier this year, which was my first official statistics course.  I did well in the course and enjoyed the content.  I do not use statistics for my job.
@@ -17,4 +17,4 @@ No.
 As my programming experience is basically non-existent at this point, I hope to gain basic knowledge of R and Python programming fundamentals and feel confident in exploring the languages further, both in my personal and professional lives.
 
 7.  Is there anything else you would like to share with us?
-I am generally nervous about this course and feel a bit self-conscious, given that I know others in the class will have had extensive programming experience, some even in the languages we are learning here.  However, I am a hard worker and plan to put in as much time as necessary into the course content and assignments in order to learn.
+I am generally nervous about this course and feel a bit self-conscious about my limited experience, given that I know others in the class will have had extensive programming experience, some even in the languages we are learning here.  However, I am a hard worker and plan to put in as much time as necessary into the course content and assignments.
